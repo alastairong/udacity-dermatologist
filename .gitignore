@@ -1,2 +1,5 @@
 .DS_Store
 data/
+.h5
+.hdf5
+.pickle
